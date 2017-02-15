@@ -2,9 +2,9 @@
 <addon id="repository.echo" name="[COLOR greenyellow]ECHO[/COLOR] [COLOR white]Repository[/COLOR]" version="1.04" provider-name="Echo Coder">
 	<extension point="xbmc.addon.repository" name="Echo Coder Repository">
 		<dir>
-			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
-			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+			<info compressed="false">https://github.com/HHATV/repo/blob/master/repo/plugins/addons.xml</info>
+			<checksum>https://github.com/HHATV/repo/blob/master/repo/plugins/addons.xml.md5</checksum>
+			<datadir zip="true">hhttp://176.25.118.93/</datadir>
 		</dir>
 		<info compressed="false">https://raw.githubusercontent.com/echocoderkodi/repository.echo/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/echocoderkodi/repository.echo/master/addons.xml.md5</checksum>
